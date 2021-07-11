@@ -5,9 +5,7 @@ User-agent: *
 Disallow:
 # this line has been added to demonstrate pull command
 # this line has been added to demonstrate pull command, check main or master
-<<<<<<< HEAD
 # doing change in local to demonstrate push command, which pushes changes from
 # local repository(remote) to central repository (github)
-=======
 # pull for the second time
->>>>>>> f9c309645b9909355160da6bb81d889518632172
+# changes in remote 2nd time
