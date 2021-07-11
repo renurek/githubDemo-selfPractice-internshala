@@ -9,3 +9,5 @@ Disallow:
 # local repository(remote) to central repository (github)
 # pull for the second time
 # changes in remote 2nd time
+
+# change after switching to ssh
